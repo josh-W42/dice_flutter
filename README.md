@@ -1,16 +1,11 @@
 # stateful_dice
 
-A dice rolling app
+## Description
 
-## Getting Started
+A simple app to help understand stateful widgets work in flutter.
 
-This project is a starting point for a Flutter application.
+Goals:
+- Understand stateful and stateless widgets and when to use them.
+- Understand functions, variables and basic data types in Dart.
+- How to make flutter applications reactive to simple user input.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
